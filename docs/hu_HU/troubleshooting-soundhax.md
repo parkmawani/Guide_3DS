@@ -1,3 +1,13 @@
+---
+head:
+  - - script
+    - src: /assets/js/common.js
+  - - script
+    - src: /assets/js/soundhax-frankenfirm-link.js
+  - - script
+    - src: /assets/js/link-common.js
+---
+
 # Hibaelhárítás (Soundhax)
 
 Ez az oldal hibaelhárítási tanácsokat ad sűrűn előforduló problémákhoz a "Boot9strap telepítése (Soundhax)" oldalhoz, ami az 1.0.0 és 11.3.0 rendszer verziókon használt. Ha nem tudod megoldani a problémád az oldal tanácsai alapján, csatlakozz a [Nintendo Homebrew-hoz Discord-on](https://discord.gg/MWxPgEp) és írd le a problémádat és azt is hogy mi az amit már próbáltál.
@@ -16,11 +26,19 @@ Ha nem ezeken a firmware verziókon van a konzolod, akkor ez valószínűleg azt
 
 Probléma van a `otherapp.bin` fájloddal (nem jó, hiányzik, rossz helyen van vagy sérült). Töltsd le a legutolsó kiadását az [universal-otherapp](https://github.com/TuxSH/universal-otherapp/releases/latest)-nak és rakd az SD kártyád gyökerébe.
 
+If the above doesn't fix your issue, and you are using an Old 3DS / Old 3DS XL / Old 2DS, you may be encountering an issue involving cartridge updates. Take another look at the system version. If the last number is 4 or lower (e.g. 11.3.0-**4**U), replace the Soundhax file on the root of your SD card with the one from [here](http://soundhax.686178.xyz/frankenfirm.html?crash).
+
+If none of these fix your issue, join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance.
+
 :::
 
 :::details "Could not play"
 
-Rossz Soundhax fájlod van a konzolodhoz és a régiódhoz vagy az eszközöd nem kompatibilis a Soundhax-szal. Később, azt, hogy mit kell csinálnod, attól függ, hog milyen verzión van a 3DS-ed jelenleg. Csatlakozz a [Nintendo Homebrew-hoz a Discord-on](https://discord.gg/MWxPgEp) segítségért.
+You have the wrong Soundhax file for your console, region and version. Double-check that you entered all the info correctly into the [Soundhax website](https://soundhax.com/), redownload your Soundhax file, and replace it with the one on the root of your SD card.
+
+If the above doesn't fix your issue, and you are using an Old 3DS / Old 3DS XL / Old 2DS, you may be encountering an issue involving cartridge updates. Take another look at the system version. If the last number is 3 or lower (e.g. 11.3.0-**0**U), replace the Soundhax file on the root of your SD card with the one from [here](http://soundhax.686178.xyz/frankenfirm.html?unplayable).
+
+If none of these fix your issue, join [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp) for assistance.
 
 :::
 
