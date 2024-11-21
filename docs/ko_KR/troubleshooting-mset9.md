@@ -200,7 +200,7 @@ If you continue to have this issue and are sure that you did everything correctl
 
 :::
 
-## Issues with SafeB9SInstaller
+## SafeB9SInstaller와의 문제
 
 <!--@include: ./_include/troubleshooting-sb9si-bin.md -->
 
