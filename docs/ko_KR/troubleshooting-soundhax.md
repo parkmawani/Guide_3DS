@@ -48,7 +48,7 @@ If none of these fix your issue, join [Nintendo Homebrew on Discord](https://dis
 
 :::
 
-## Issues with SafeB9SInstaller
+## SafeB9SInstaller와의 문제
 
 <!--@include: ./_include/troubleshooting-sb9si-bin.md -->
 
