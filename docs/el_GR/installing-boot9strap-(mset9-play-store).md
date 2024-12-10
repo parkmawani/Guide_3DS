@@ -77,7 +77,7 @@
 
 14. Περιμένετε μέχρι η κονσόλα σας να φτάσει στην οθόνη «Welcome to Mii Maker» και έπειτα, κλείστε τό Mii Maker
     - Ενδέχεται να δείτε [αυτήν την οθόνη](/images/screenshots/mset9/mii-extdata.png), η οποία υποδεικνύει ότι έχουν δημιουργηθεί τα απαραίτητα δεδομένα
-    - If you just reach the normal Mii Maker screen, exit Mii Maker and return to the HOME Menu
+    - Εάν φτάσετε απλώς στην κανονική οθόνη του Mii Maker, κλείστε το Mii Maker και επιστρέψτε στο μενού «HOME»
 
 15. Εκκινήστε την εφαρμογή «System Settings» και μεταβείτε στο `Data Management` -> `Nintendo 3DS` -> `Software` -> «Reset» ([εικόνα](/images/screenshots/database-reset.jpg))
     - Αυτή η ενέργεια δεν θα διαγράψει τα δεδομένα σας
@@ -86,12 +86,12 @@
 
 17. Εισαγάγετε την κάρτα SD στο τηλέφωνο, το tablet ή τον υπολογιστή σας
 
-18. The MSET9 Installer application should automatically check if you have done previous steps properly
-    - It may take a few seconds for the app to detect the SD card and react
-    - If it doesn't check automatically, tap `Check MSET9 status` to check manually
+18. Η εφαρμογή «MSET9 Installer» θα πρέπει να ελέγξει αυτόματα αν έχετε εκτελέσει σωστά τα προηγούμενα βήματα
+    - Ενδέχεται να χρειαστούν μερικά δευτερόλεπτα μέχρι η εφαρμογή να εντοπίσει την κάρτα SD και να αντιδράσει
+    - Εάν δεν κάνει αυτόματο έλεγχο, πατήστε `Check MSET9 status` για χειροκίνητο έλεγχο
     - Εάν λάβετε κάποιο σφάλμα, δείτε τη σελίδα [Επίλυση προβλημάτων](troubleshooting-mset9) και δοκιμάστε ξανά
 
-19. If the check passed, you'll see `Inject trigger file` become [highlighted](/images/screenshots/mset9/inject-trigger-highlighted.png) and you can continue to the next step. **Do not inject trigger yet.** Put your phone/tablet/computer aside for now
+19. Εάν ο έλεγχος ολοκληρωθεί χωρίς σφάλματα, η επιλογή `Inject trigger file` θα [επισημανθεί](/images/screenshots/mset9/inject-trigger-highlighted.png). Μπορείτε τότε να συνεχίσετε στο επόμενο βήμα. **Μην εισαγάγετε ακόμα το αρχείο ενεργοποίησης.** Αφήστε στην άκρη το τηλέφωνο/tablet/υπολογιστή σας προς το παρόν
 
 20. Εισαγάγετε ξανά την κάρτα SD στην κονσόλα σας
 
