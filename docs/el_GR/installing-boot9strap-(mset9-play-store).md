@@ -56,18 +56,18 @@
 
 5. Μόλις βρεθείτε εντός του φακέλου `Nintendo 3DS`, πατήστε το «Use this folder» και έπειτα, το «Allow» αν σας ζητηθεί ([εικόνα](/images/screenshots/mset9/select-mset9-folder-2.png))
 
-6. If `Setup MSET9` is [highlighted](/images/screenshots/mset9/setup-mset9-highlighted.png), proceed to the next step
-   - If you get an error, you need to resolve before you can use MSET9. Ανατρέξτε στη σελίδα [Επίλυση προβλημάτων](troubleshooting-mset9)
+6. Εάν είναι [επισημασμένη](/images/screenshots/mset9/setup-mset9-highlighted.png) η επιλογή `Setup MSET9`, συνεχίστε στο επόμενο βήμα
+   - Εάν λάβετε κάποιο σφάλμα, θα πρέπει να το επιλύσετε πριν μπορέσετε να χρησιμοποιήσετε το MSET9. Ανατρέξτε στη σελίδα [Επίλυση προβλημάτων](troubleshooting-mset9)
 
-7. Tap on `Setup MSET9` to begin the process of setting up MSET9
+7. Πατήστε `Setup MSET9` για να ξεκινήσετε τη διαδικασία εγκατάστασης του MSET9
 
-8. After reviewing the disclaimer, tap on `Confirm` to accept it
+8. Αφού εξετάσετε το μήνυμα αποποίησης ευθυνών, επιλέξτε `Confirm` για να το αποδεχτείτε
 
-9. Tap on the photo corresponding to your console model, then at the bottom, pick your current firmware version
+9. Πατήστε τη φωτογραφία που αντιστοιχεί στο μοντέλο της κονσόλας σας και έπειτα, στο κάτω μέρος, επιλέξτε την τρέχουσα έκδοση του firmware σας
 
-10. If you see the prompt of `Hax ID1 Created`, tap OK to continue
+10. Εάν δείτε το μήνυμα `Hax ID1 Created`, πατήστε «OK» για να συνεχίσετε
     - Εάν λάβετε κάποιο σφάλμα, δείτε τη σελίδα [Επίλυση προβλημάτων](troubleshooting-mset9) και δοκιμάστε ξανά
-    - Your 3DS will appear to lose most data / no user-installed apps on HOME Menu. This is expected. Your data will come back at a later step
+    - Θα παρατηρήσετε απώλεια των περισσότερων δεδομένων και εγκατεστημένων εφαρμογών από το μενού «HOME» του 3DS σας. Αυτό είναι μέρος της διαδικασίας. Τα δεδομένα σας θα επιστρέψουν σε μεταγενέστερο βήμα
 
 11. Εισαγάγετε ξανά την κάρτα SD στην κονσόλα σας
 
@@ -114,8 +114,8 @@
    - Το μενού θα ανανεωθεί και θα δείτε ένα μήνυμα περί απουσίας της κάρτας SD, το οποίο είναι αναμενόμενο
 6. Εισαγάγετε την κάρτα SD στο τηλέφωνο, το tablet ή τον υπολογιστή σας
 7. Ανοίξτε την εφαρμογή «MSET9 Installer»
-8. Tap `Inject trigger file`
-   - The button should become greyed out and `Remove trigger file` become [highlighted](/images/screenshots/mset9/remove-trigger-highlighted.png)
+8. Πατήστε `Inject trigger file`
+   - Το κουμπί θα απενεργοποιηθεί και θα [επισημανθεί](/images/screenshots/mset9/remove-trigger-highlighted.png) η επιλογή `Remove trigger file`
 9. Εισαγάγετε ξανά την κάρτα SD στην κονσόλα σας **χωρίς να πατήσετε οποιοδήποτε πλήκτρο ή να αγγίξετε την οθόνη**
 10. Εάν το exploit ήταν επιτυχές, θα έχει γίνει εκκίνηση στο SafeB9SInstaller
     - Εάν λάβετε μια κόκκινη οθόνη ή αν «κολλήσει» η κονσόλα σε κάποια οθόνη φόρτωσης, ακολουθήστε τον [οδηγό επίλυσης προβλημάτων](troubleshooting-mset9)
@@ -143,7 +143,7 @@
 1. Απενεργοποιήστε την κονσόλα σας
 2. Εισαγάγετε την κάρτα SD στο τηλέφωνο, το tablet ή τον υπολογιστή σας
 3. Ανοίξτε την εφαρμογή «MSET9 Installer»
-4. Tap `Remove MSET9`
+4. Πατήστε `Remove MSET9`
 5. Κλείστε την εφαρμογή «MSET9 Installer»
 
 <!--@include: ./_include/luma3ds-installed-note.md -->
