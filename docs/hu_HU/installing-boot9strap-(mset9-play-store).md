@@ -56,18 +56,18 @@ Ebben a részben előkészítjük az SD kártyád a szükséges adatokkal amik k
 
 5. Ha a `Nintendo 3DS` mappában vagy, érintsd meg a "Use this folder" opciót, majd az "Allow"-ot, ha kérdezi ([kép](/images/screenshots/mset9/select-mset9-folder-2.png))
 
-6. If `Setup MSET9` is [highlighted](/images/screenshots/mset9/setup-mset9-highlighted.png), proceed to the next step
-   - If you get an error, you need to resolve before you can use MSET9. Használd a [hibaelhárítást](troubleshooting-mset9)
+6. Ha a `Setup MSET9` opció [kiemelt](/images/screenshots/mset9/setup-mset9-highlighted.png), akkor haladj tovább a következő lépésre
+   - Ha hibába ütköztél, azt fel kellene oldani, mielőtt használhatod az MSET9-et. Használd a [hibaelhárítást](troubleshooting-mset9)
 
-7. Tap on `Setup MSET9` to begin the process of setting up MSET9
+7. Érintsd meg a `Setup MSET9` az MSET9 telepítésének elindításához
 
-8. After reviewing the disclaimer, tap on `Confirm` to accept it
+8. A nyilatkozatot elolvasását követően nyomj `Confirm`-ot annak elfogadásához
 
-9. Tap on the photo corresponding to your console model, then at the bottom, pick your current firmware version
+9. Érintsd meg a modellednek megfelelő fényképet, majd alul válaszd ki a firmware verziódat
 
-10. If you see the prompt of `Hax ID1 Created`, tap OK to continue
+10. Ha a `Hax ID1 Created` promptot látod, nyomj az OK-ra a folytatáshoz
     - Ha hibát kapsz, nézd meg a [hibaelhárítási útmutatót](troubleshooting-mset9), majd próbáld újra
-    - Your 3DS will appear to lose most data / no user-installed apps on HOME Menu. This is expected. Your data will come back at a later step
+    - A 3DS-ed úgy fog tűnni, hogy elvesztette a legtöbb adatot / nincs felhasználó által telepített alkalmazást a HOME menüben. Ez az elvárt. Az adataid visszatérnek egy későbbi lépésben
 
 11. Tedd vissza az SD kártyád a konzoldba
 
@@ -77,7 +77,7 @@ Ebben a részben előkészítjük az SD kártyád a szükséges adatokkal amik k
 
 14. Várj amíg a konzolod elérí a "Welcome to Mii Maker" képernyőt, majd lépj ki a Mii Maker-ből
     - [Ezt a képernyőt láthatod](/images/screenshots/mset9/mii-extdata.png), ami azt mutatja, hogy a szükséges adatok létrejöttek
-    - If you just reach the normal Mii Maker screen, exit Mii Maker and return to the HOME Menu
+    - Ha normál Mii Maker képernyőre jutottál, lépj ki a Mii Maker-ből és térj vissza a HOME képernyőre
 
 15. Indítsd el a System Settings-et és navigálj ide: `Data Management` -> `Nintendo 3DS` -> `Software` -> Reset ([image](/images/screenshots/database-reset.jpg))
     - Ez nem fogja törölni az adataidat
@@ -114,8 +114,8 @@ Ezeket a lépéseket **PONTOSAN** kell követni, így ellenőrizz MINDENT kétsz
    - A menü frissülni fog, és ki fogja írni, hogy nincs SD kártya behelyezve, ami elvárt működés
 6. Helyezd az SD kártyád a telefonodba/tabletedbe/számítógépedbe
 7. Nyisd meg az MSET9 Installer alkalmazást
-8. Tap `Inject trigger file`
-   - The button should become greyed out and `Remove trigger file` become [highlighted](/images/screenshots/mset9/remove-trigger-highlighted.png)
+8. Érintsd meg az `Inject trigger file` opciót
+   - A gombnak be kell szürkülödnie és a `Remove trigger file` pedig [kiemelődik](/images/screenshots/mset9/remove-trigger-highlighted.png)
 9. Helyezd vissza az SD kártyád a konzolodba, **bármilyen gomb vagy a képernyő érintése nélkül**
 10. Ha az exploit sikerrel járt, készüléked bebootolja a SafeB9SInstallert
     - Ha piros képernyőt kapsz vagy a konzol beragad a betöltő képernyőn, kövesd a [hibaelhárítási útmutatót](troubleshooting-mset9)
