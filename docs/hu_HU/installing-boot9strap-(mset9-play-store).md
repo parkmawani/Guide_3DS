@@ -86,12 +86,12 @@ Ebben a részben előkészítjük az SD kártyád a szükséges adatokkal amik k
 
 17. Helyezd az SD kártyád a telefonodba/tabletedbe/számítógépedbe
 
-18. The MSET9 Installer application should automatically check if you have done previous steps properly
-    - It may take a few seconds for the app to detect the SD card and react
-    - If it doesn't check automatically, tap `Check MSET9 status` to check manually
+18. Az MSET9 Installer alkalmazás automatikusan ellenőrzi, hogy a korábbi lépéyeket sikerült-e helyesen végrehajtani
+    - Néhány másodpercet igénybe vesz az appnak az, hogy detektálja az SD kártyát majd reagáljon
+    - Ha nem ellenőrzi automatikusan, érintsd meg a `Check MSET9 status` opciót a manuális ellenőrzéshez
     - Ha hibát kapsz, nézd meg a [hibaelhárítási útmutatót](troubleshooting-mset9), majd próbáld újra
 
-19. If the check passed, you'll see `Inject trigger file` become [highlighted](/images/screenshots/mset9/inject-trigger-highlighted.png) and you can continue to the next step. **Do not inject trigger yet.** Put your phone/tablet/computer aside for now
+19. Ha az ellenőrzés sikeres az `Inject trigger file` [kiemelődik](/images/screenshots/mset9/inject-trigger-highlighted.png) és folytathatod a következő lépéssel. **Do not inject trigger yet.** Put your phone/tablet/computer aside for now
 
 20. Tedd vissza az SD kártyád a konzoldba
 
