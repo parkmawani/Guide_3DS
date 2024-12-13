@@ -143,7 +143,7 @@ NE ugord át ezt a részt! Ha kihagyod, akkor az alkalmazások váratlanul össz
 1. Kapcsold ki a konzolod
 2. Helyezd az SD kártyád a telefonodba/tabletedbe/számítógépedbe
 3. Nyisd meg az MSET9 Installer alkalmazást
-4. Tap `Remove MSET9`
+4. Éríntsd meg a `Remove MSET9` opciót
 5. Zárd be az MSET9 Installer alkalmazást
 
 <!--@include: ./_include/luma3ds-installed-note.md -->
