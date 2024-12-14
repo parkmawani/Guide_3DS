@@ -67,7 +67,7 @@ In questa sezione preparerai i dati della scheda SD necessari per attivare l'exp
 
 10. Se appare la scritta `Hax ID1 Created`, tocca OK per continuare
     - Se ottieni un errore, controlla la pagina [Risoluzione dei problemi](troubleshooting-mset9), quindi riprova
-    - Il tuo 3DS sembrerà aver perso la maggior parte dei dati, e non appariranno le applicazioni installate dall'utente nel menu HOME. È normale. Your data will come back at a later step
+    - Il tuo 3DS sembrerà aver perso la maggior parte dei dati, e non appariranno le applicazioni installate dall'utente nel menu HOME. È normale. I tuoi dati verranno ripristinati successivamente
 
 11. Reinserisci la scheda SD nella tua console
 
@@ -77,7 +77,7 @@ In questa sezione preparerai i dati della scheda SD necessari per attivare l'exp
 
 14. Attendi che la console raggiunga la schermata "Benvenuto nel Centro di creazione Mii", quindi esci dall'applicazione
     - Potresti vedere [questa schermata](/images/screenshots/mset9/mii-extdata.png), che indica che i dati necessari sono stati creati
-    - If you just reach the normal Mii Maker screen, exit Mii Maker and return to the HOME Menu
+    - Se raggiungi la schermata principale del Centro di creazione Mii, esci dall'applicazione e torna al menu HOME
 
 15. Avvia le Impostazioni della console e vai su `Gestione dati` -> `Nintendo 3DS` -> `Software` -> Reset ([immagine](/images/screenshots/database-reset.jpg))
     - Non verranno cancellati i tuoi dati
@@ -86,12 +86,12 @@ In questa sezione preparerai i dati della scheda SD necessari per attivare l'exp
 
 17. Inserisci la tua scheda SD nel tuo telefono/tablet/computer
 
-18. The MSET9 Installer application should automatically check if you have done previous steps properly
-    - It may take a few seconds for the app to detect the SD card and react
-    - If it doesn't check automatically, tap `Check MSET9 status` to check manually
+18. L'applicazione MSET9 Installer dovrebbe verificare automaticamente se hai eseguito correttamente i passaggi precedenti
+    - Potrebbero volerci alcuni secondi per rilevare la scheda SD e proseguire
+    - Se il controllo non viene eseguito, seleziona `Check MSET9 status` per verificarlo manualmente
     - Se ottieni un errore, controlla la pagina [Risoluzione dei problemi](troubleshooting-mset9), quindi riprova
 
-19. If the check passed, you'll see `Inject trigger file` become [highlighted](/images/screenshots/mset9/inject-trigger-highlighted.png) and you can continue to the next step. **Do not inject trigger yet.** Put your phone/tablet/computer aside for now
+19. Se il controllo va a buon fine, vedrai `Inject trigger file` diventare [selezionato](/images/screenshots/mset9/inject-trigger-highlighted.png) e potrai continuare al passo successivo. **Non eseguirlo ancora.** Metti da parte il tuo telefono/tablet/computer
 
 20. Reinserisci la scheda SD nella tua console
 
@@ -114,8 +114,8 @@ Queste istruzioni vanno eseguite **ALLA LETTERA**, quindi ricontrolla TUTTO quel
    - Il menu si aggiornerà e dirà che non è presente alcuna scheda SD, il che è normale
 6. Inserisci la tua scheda SD nel tuo telefono/tablet/computer
 7. Apri l'applicazione MSET9 Installer
-8. Tap `Inject trigger file`
-   - The button should become greyed out and `Remove trigger file` become [highlighted](/images/screenshots/mset9/remove-trigger-highlighted.png)
+8. Tocca `Inject trigger file`
+   - Il pulsante dovrebbe ingrigirsi e `Remove trigger file` dovrebbe diventare [selezionato](/images/screenshots/mset9/remove-trigger-highlighted.png)
 9. Reinserisci la scheda SD nella console **senza premere alcun pulsante o toccare lo schermo**
 10. Se l'exploit è andato a buon fine, si avvierà SafeB9SInstaller
     - Se vedi una schermata rossa o se la console si blocca ad una schermata di caricamento, [segui questa guida per risolvere il problema](troubleshooting-mset9)
@@ -143,7 +143,7 @@ NON saltare questa sezione! Se lo salti, le applicazioni potrebbero inaspettatam
 1. Spegni la tua console
 2. Inserisci la tua scheda SD nel tuo telefono/tablet/computer
 3. Apri l'applicazione MSET9 Installer
-4. Tap `Remove MSET9`
+4. Tocca "Remove MSET9\`
 5. Chiudi l'applicazione MSET9 Installer
 
 <!--@include: ./_include/luma3ds-installed-note.md -->
