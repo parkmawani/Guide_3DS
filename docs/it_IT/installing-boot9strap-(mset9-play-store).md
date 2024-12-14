@@ -56,18 +56,18 @@ In questa sezione preparerai i dati della scheda SD necessari per attivare l'exp
 
 5. Una volta all'interno della cartella `Nintendo 3DS`, tocca "Use this folder", quindi "Allow" se richiesto ([immagine](/images/screenshots/mset9/select-mset9-folder-2.png))
 
-6. If `Setup MSET9` is [highlighted](/images/screenshots/mset9/setup-mset9-highlighted.png), proceed to the next step
-   - If you get an error, you need to resolve before you can use MSET9. Fai riferimento alla pagina [Risoluzione dei problemi](troubleshooting-mset9)
+6. Se "Setup MSET9" è [evidenziato](/images/screenshots/mset9/setup-mset9-highlighted.png), procedi al passaggio successivo
+   - Se ottieni un errore, è necessario risolverlo prima di poter utilizzare MSET9. Fai riferimento alla pagina [Risoluzione dei problemi](troubleshooting-mset9)
 
-7. Tap on `Setup MSET9` to begin the process of setting up MSET9
+7. Seleziona `Setup MSET9` per avviare la configurazione di MSET9
 
-8. After reviewing the disclaimer, tap on `Confirm` to accept it
+8. Dopo aver letto il disclaimer, tocca `Confirm` per accettarlo
 
-9. Tap on the photo corresponding to your console model, then at the bottom, pick your current firmware version
+9. Tocca la foto corrispondente al modello della tua console, e in fondo scegli la tua versione del software
 
-10. If you see the prompt of `Hax ID1 Created`, tap OK to continue
+10. Se appare la scritta `Hax ID1 Created`, tocca OK per continuare
     - Se ottieni un errore, controlla la pagina [Risoluzione dei problemi](troubleshooting-mset9), quindi riprova
-    - Your 3DS will appear to lose most data / no user-installed apps on HOME Menu. This is expected. Your data will come back at a later step
+    - Il tuo 3DS sembrerà aver perso la maggior parte dei dati, e non appariranno le applicazioni installate dall'utente nel menu HOME. È normale. Your data will come back at a later step
 
 11. Reinserisci la scheda SD nella tua console
 
